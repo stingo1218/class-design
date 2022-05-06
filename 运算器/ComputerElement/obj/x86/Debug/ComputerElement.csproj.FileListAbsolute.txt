@@ -1,0 +1,57 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\ComputerElement\bin\Debug\ComputerElement.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\ComputerElement\bin\Debug\ComputerElement.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\ComputerElement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\ComputerElement\obj\x86\Debug\ComputerElement.MainForm.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\ComputerElement\obj\x86\Debug\ComputerElement.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\ComputerElement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\ComputerElement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\ComputerElement\obj\x86\Debug\ComputerElement.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\ComputerElement\obj\x86\Debug\ComputerElement.pdb
+E:\库\我的工程\ComputerElement\ComputerElement\ComputerElement\obj\x86\Debug\ComputerElement.exe
+E:\库\我的工程\ComputerElement\ComputerElement\ComputerElement\obj\x86\Debug\ComputerElement.pdb
+E:\库\我的工程\ComputerElement\ComputerElement\ComputerElement\bin\Debug\ComputerElement.exe
+E:\库\我的工程\ComputerElement\ComputerElement\ComputerElement\bin\Debug\ComputerElement.pdb
+E:\库\我的工程\ComputerElement\ComputerElement\ComputerElement\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\库\我的工程\ComputerElement\ComputerElement\ComputerElement\obj\x86\Debug\ComputerElement.Properties.Resources.resources
+E:\库\我的工程\ComputerElement\ComputerElement\ComputerElement\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\库\我的工程\ComputerElement\ComputerElement\ComputerElement\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\库\我的工程\ComputerElement\ComputerElement\ComputerElement\obj\x86\Debug\ComputerElement.frmBinaryMath.resources
+E:\学习文件\计原\计原\ComputerElement\obj\x86\Debug\ComputerElement.exe
+E:\学习文件\计原\计原\ComputerElement\obj\x86\Debug\ComputerElement.pdb
+C:\Users\qiu\Desktop\计原\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.exe
+C:\Users\qiu\Desktop\计原\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.pdb
+C:\Users\syc\Desktop\课程设计\课程设计\程序\ComputerElement\bin\Debug\ComputerElement.exe
+C:\Users\syc\Desktop\课程设计\课程设计\程序\ComputerElement\bin\Debug\ComputerElement.pdb
+C:\Users\syc\Desktop\课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csprojAssemblyReference.cache
+C:\Users\syc\Desktop\课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.frmBinaryMath.resources
+C:\Users\syc\Desktop\课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.Properties.Resources.resources
+C:\Users\syc\Desktop\课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csproj.GenerateResource.cache
+C:\Users\syc\Desktop\课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csproj.CoreCompileInputs.cache
+C:\Users\syc\Desktop\课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.exe
+C:\Users\syc\Desktop\课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.pdb
+C:\Users\syc\Desktop\运算器课程设计\课程设计\程序\ComputerElement\bin\Debug\ComputerElement.exe
+C:\Users\syc\Desktop\运算器课程设计\课程设计\程序\ComputerElement\bin\Debug\ComputerElement.pdb
+C:\Users\syc\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.frmBinaryMath.resources
+C:\Users\syc\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.Properties.Resources.resources
+C:\Users\syc\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csproj.GenerateResource.cache
+C:\Users\syc\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csproj.CoreCompileInputs.cache
+C:\Users\syc\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.exe
+C:\Users\syc\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.pdb
+C:\Users\Administrator\Desktop\运算器课程设计\课程设计\程序\ComputerElement\bin\Debug\ComputerElement.exe
+C:\Users\Administrator\Desktop\运算器课程设计\课程设计\程序\ComputerElement\bin\Debug\ComputerElement.pdb
+C:\Users\Administrator\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.frmBinaryMath.resources
+C:\Users\Administrator\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.exe
+C:\Users\Administrator\Desktop\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.pdb
+E:\个人资料\运算器课程设计\课程设计\程序\ComputerElement\bin\Debug\ComputerElement.exe
+E:\个人资料\运算器课程设计\课程设计\程序\ComputerElement\bin\Debug\ComputerElement.pdb
+E:\个人资料\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csproj.AssemblyReference.cache
+E:\个人资料\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.frmBinaryMath.resources
+E:\个人资料\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.Properties.Resources.resources
+E:\个人资料\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csproj.GenerateResource.cache
+E:\个人资料\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.csproj.CoreCompileInputs.cache
+E:\个人资料\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.exe
+E:\个人资料\运算器课程设计\课程设计\程序\ComputerElement\obj\x86\Debug\ComputerElement.pdb
